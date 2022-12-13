@@ -57,7 +57,7 @@
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:text="@string/news_title"
-                android:textColor="@android:color/darker_gray"
+                android:textColor="#A1887F"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/sportsImageDetail" />
 
